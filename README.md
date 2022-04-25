@@ -43,5 +43,5 @@ If possible, I recommend buying a Mac with 16GB of memory (rather than the defau
 So far, I have been happy with my M1 Mac. Most software I need can be run with appropriate workarounds. I still do my major bioinformatics tasks on a Linux server, and minor bioinformatics tasks seem to run okay. The most annoying workaround currently is the need to use a virtual machine to run Inkscape.
 
 ## Final remarks
-For now, I have only written brief notes about my experiences. If you are interested in learning more about the workarounds I mentioned above, please open a GitHub Issue in this repo and let me know. Thanks!
+For now, I have only written brief notes about my experiences. If you are interested in learning more about the workarounds I mentioned above, or if you have found other (and simpler) ways to do bioinformatics that what I have mentioned, please open a GitHub Issue in this repo and let me know. Thanks!
 
