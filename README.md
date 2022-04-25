@@ -1,5 +1,5 @@
 # Bioinformatics on M1
-Personal notes about migration to n M1 Mac as a bioinformatics user
+Personal notes about migration to a M1 Mac as a bioinformatics user
 
 ## Background
 Apple recently released the M1 processor chip. Fewer and fewer Macs are being sold that use Intel processors. So, it is straightforward to do bioinformatics tasks on a M1 Mac? Here, I record my (rough) personal notes using a M1 Mac for bioinformatics.
