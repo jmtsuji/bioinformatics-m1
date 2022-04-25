@@ -29,6 +29,7 @@ Instead of using miniconda, you can use miniforge ([link here](https://github.co
 Install UTM (a virtual machine manager) and create a virtual machine of Ubuntu 20.04 ARM on your Mac (see guide at [this link](https://mac.getutm.app/gallery/ubuntu-20-04)). You can make a shared folder that lets you easily move files between the two systems. You can also set up copy-and-paste of text between macOS and the Ubuntu virtual machine. Inkscape can be installed inside the Ubuntu Virtual Machine, and it works smoothly.
 
 ![Running an Ubuntu VM on a M1 Mac](img/ubuntu_mac.jpg)
+Inkscape can be installed and launched from a Ubuntu VM runnning on a M1 Mac.
 
 ### 3. GIMP
 Same solution as #2. I have not extensively tested GIMP yet, but it seems to work well for very basic tasks.
