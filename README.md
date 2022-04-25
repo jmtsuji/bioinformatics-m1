@@ -28,6 +28,8 @@ Instead of using miniconda, you can use miniforge ([link here](https://github.co
 ### 2. Inkscape
 Install UTM (a virtual machine manager) and create a virtual machine of Ubuntu 20.04 ARM on your Mac (see guide at [this link](https://mac.getutm.app/gallery/ubuntu-20-04)). You can make a shared folder that lets you easily move files between the two systems. You can also set up copy-and-paste of text between macOS and the Ubuntu virtual machine. Inkscape can be installed inside the Ubuntu Virtual Machine, and it works smoothly.
 
+![Running an Ubuntu VM on a M1 Mac](img/ubuntu_mac.jpg)
+
 ### 3. GIMP
 Same solution as #2. I have not extensively tested GIMP yet, but it seems to work well for very basic tasks.
 
@@ -38,4 +40,7 @@ Use the web browser version of Skype at https://web.skype.com/ -- works very smo
 If possible, I recommend buying a Mac with 16GB of memory (rather than the default 8 GB for Macbook Air's at the moment). This lets you run a virtual machine without much worry of using too much RAM.
 
 So far, I have been happy with my M1 Mac. Most software I need can be run with appropriate workarounds. I still do my major bioinformatics tasks on a Linux server, and minor bioinformatics tasks seem to run okay. The most annoying workaround currently is the need to use a virtual machine to run Inkscape.
+
+## Final remarks
+For now, I have only written brief notes about my experiences. If you are interested in learning more about the workarounds I mentioned above, please open a GitHub Issue in this repo and let me know. Thanks!
 
